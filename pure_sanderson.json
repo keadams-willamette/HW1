@@ -1,0 +1,2048 @@
+[
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 14658160,
+    "ebook_access": "borrowable",
+    "edition_count": 44,
+    "first_publish_year": 2001,
+    "has_fulltext": true,
+    "ia": [
+      "zmgyzrodzony0000sand",
+      "mistbornfinalemp0000sand_a4i8",
+      "mistbornfinalemp00sand",
+      "isbn_9780765360960_1",
+      "imperiofinalnaci0000bran",
+      "isbn_9780765360960_0",
+      "mistbornfinalemp0000sand_x7z1",
+      "finalempire0000sand",
+      "mistbornfinalemp0000sand"
+    ],
+    "ia_collection": [
+      "americana",
+      "cnusd-ol",
+      "delawarecountydistrictlibrary",
+      "delawarecountydistrictlibrary-ol",
+      "drakeuniversity-ol",
+      "goffstownlibrary-ol",
+      "hamiltonpubliclibrary-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "openlibrary-d-ol",
+      "printdisabled",
+      "salisburyfreelibrary-ol",
+      "spokanepubliclibrary-ol",
+      "worthingtonlibraries-ol"
+    ],
+    "key": "/works/OL5738148W",
+    "language": [
+      "por",
+      "spa",
+      "ger",
+      "pol",
+      "fre",
+      "chi",
+      "eng",
+      "cat"
+    ],
+    "lending_edition_s": "OL32575441M",
+    "lending_identifier_s": "zmgyzrodzony0000sand",
+    "public_scan_b": false,
+    "title": "The Final Empire"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL8053698M",
+    "cover_i": 14658341,
+    "ebook_access": "borrowable",
+    "edition_count": 36,
+    "first_publish_year": 2007,
+    "has_fulltext": true,
+    "ia": [
+      "lepuitsdelascens0000bran",
+      "studniawstapieni0000sand",
+      "lepuitsdelascens0000sand",
+      "wellofascension0000sand_d3b9",
+      "wellofascension0000sand_p9r7",
+      "wellofascension0000sand_v1q2",
+      "wellofascension0000sand",
+      "isbn_9780765356130"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL5738150W",
+    "language": [
+      "eng",
+      "fre",
+      "spa",
+      "cat",
+      "pol",
+      "ger"
+    ],
+    "lending_edition_s": "OL49196176M",
+    "lending_identifier_s": "lepuitsdelascens0000bran",
+    "public_scan_b": false,
+    "title": "The Well of Ascension"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL3311824M",
+    "cover_i": 14658083,
+    "ebook_access": "printdisabled",
+    "edition_count": 33,
+    "first_publish_year": 2005,
+    "has_fulltext": true,
+    "ia": [
+      "elantris0000sand",
+      "elantris00sand",
+      "elantris0000sand_q0j6",
+      "elantris0000sand_u4m8",
+      "elantris00sand_0"
+    ],
+    "ia_collection": [
+      "americana",
+      "delawarecountydistrictlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL5738147W",
+    "language": [
+      "spa",
+      "pol",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Elantris"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL24345134M",
+    "cover_i": 14658316,
+    "ebook_access": "printdisabled",
+    "edition_count": 30,
+    "first_publish_year": 2010,
+    "has_fulltext": true,
+    "ia": [
+      "derwegderknigero0000bran",
+      "wayofkings0000sand_h0x5",
+      "wayofkingsthesto00bran",
+      "wayofkings0000sand"
+    ],
+    "ia_collection": [
+      "dartmouthlibrary-ol",
+      "hamiltonpubliclibrary-ol",
+      "internetarchivebooks",
+      "miltonpubliclibrary-ol",
+      "printdisabled",
+      "tulsacc-ol"
+    ],
+    "key": "/works/OL15358691W",
+    "language": [
+      "por",
+      "spa",
+      "pol",
+      "ger",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Way of Kings"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL24088527M",
+    "cover_i": 14658094,
+    "ebook_access": "borrowable",
+    "edition_count": 27,
+    "first_publish_year": 2008,
+    "has_fulltext": true,
+    "ia": [
+      "bohaterwiekow0000sand",
+      "elheroedelaseras0000sand",
+      "elhroedelaseras0000bran",
+      "isbn_9780765356147",
+      "heroofagesbookth0000bran"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL5738154W",
+    "language": [
+      "pol",
+      "eng",
+      "spa"
+    ],
+    "lending_edition_s": "OL32575443M",
+    "lending_identifier_s": "bohaterwiekow0000sand",
+    "public_scan_b": false,
+    "title": "The Hero of Ages"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25280450M",
+    "cover_i": 14658081,
+    "ebook_access": "borrowable",
+    "edition_count": 24,
+    "first_publish_year": 2001,
+    "has_fulltext": true,
+    "ia": [
+      "lalliagedelajust0000sand",
+      "dewetvanstaaldut0000bran",
+      "stopprawa0000sand",
+      "aleacindeley0000bran",
+      "alloyoflawmistbo00sand"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL16597059W",
+    "language": [
+      "fre",
+      "eng",
+      "spa",
+      "pol",
+      "dut"
+    ],
+    "lending_edition_s": "OL43029900M",
+    "lending_identifier_s": "lalliagedelajust0000sand",
+    "public_scan_b": false,
+    "title": "The Alloy of Law"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL9424896M",
+    "cover_i": 14658065,
+    "ebook_access": "borrowable",
+    "edition_count": 27,
+    "first_publish_year": 2007,
+    "has_fulltext": true,
+    "ia": [
+      "alcatrazsmedryli0000sand",
+      "alcatrazcontralo0000sand",
+      "isbn_9782740426630",
+      "alcatrazversusev2007sand",
+      "alcatrazversusev0000sand",
+      "alcatrazversusev00sand",
+      "alcatrazversusev00bran"
+    ],
+    "ia_collection": [
+      "americana",
+      "cnusd-ol",
+      "delawarecountydistrictlibrary",
+      "delawarecountydistrictlibrary-ol",
+      "denverpubliclibrary-ol",
+      "hamiltonpubliclibrary-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "marygrovecollege",
+      "openlibrary-d-ol",
+      "printdisabled",
+      "spokanepubliclibrary-ol",
+      "uni-ol"
+    ],
+    "key": "/works/OL5738144W",
+    "language": [
+      "eng",
+      "fre",
+      "spa"
+    ],
+    "lending_edition_s": "OL32380598M",
+    "lending_identifier_s": "alcatrazsmedryli0000sand",
+    "public_scan_b": false,
+    "title": "Alcatraz versus the Evil Librarians"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25438720M",
+    "cover_i": 14658334,
+    "ebook_access": "printdisabled",
+    "edition_count": 22,
+    "first_publish_year": 2012,
+    "has_fulltext": true,
+    "ia": [
+      "wordsofradiance0000sand_a2y8",
+      "wordsofradiance0000sand_a1x6",
+      "wordsofradiance0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL16813053W",
+    "language": [
+      "eng",
+      "por",
+      "pol",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Words of Radiance"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25926786M",
+    "cover_i": 14658335,
+    "ebook_access": "borrowable",
+    "edition_count": 19,
+    "first_publish_year": 2016,
+    "has_fulltext": true,
+    "ia": [
+      "zaobneopaski0000sand",
+      "bwb_T2-BSD-346",
+      "bandsofmourningm0000sand_i0l0",
+      "bandsofmourning0000sand",
+      "bandsofmourningm0000sand_x2e9",
+      "bandsofmourningm0000sand"
+    ],
+    "ia_collection": [
+      "hamiltonpubliclibrary-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled",
+      "salisburyfreelibrary-ol"
+    ],
+    "key": "/works/OL17349394W",
+    "language": [
+      "spa",
+      "pol",
+      "eng"
+    ],
+    "lending_edition_s": "OL42984353M",
+    "lending_identifier_s": "zaobneopaski0000sand",
+    "public_scan_b": false,
+    "title": "The Bands of Mourning"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25431390M",
+    "cover_i": 14658147,
+    "ebook_access": "printdisabled",
+    "edition_count": 18,
+    "first_publish_year": 2001,
+    "has_fulltext": true,
+    "ia": [
+      "steelheart0000sand_g0e1",
+      "steelheart0000sand_b6c1",
+      "steelheart0000sand_e5x9",
+      "steelheart0000bran",
+      "steelheart0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL16807297W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Steelheart"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25926785M",
+    "cover_i": 14658321,
+    "ebook_access": "borrowable",
+    "edition_count": 18,
+    "first_publish_year": 2015,
+    "has_fulltext": true,
+    "ia": [
+      "cienietozsamosci0000sand",
+      "sombrasdeidentid0000unse",
+      "shadowsofselfmis0000sand_x4h1",
+      "shadowsofselfmis0000sand"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17349393W",
+    "language": [
+      "pol",
+      "eng",
+      "spa"
+    ],
+    "lending_edition_s": "OL38579985M",
+    "lending_identifier_s": "cienietozsamosci0000sand",
+    "public_scan_b": false,
+    "title": "Shadows of Self"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26664276M",
+    "cover_i": 14658323,
+    "ebook_access": "printdisabled",
+    "edition_count": 17,
+    "first_publish_year": 2018,
+    "has_fulltext": true,
+    "ia": [
+      "skyward0000bran",
+      "skyward0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL18191919W",
+    "language": [
+      "eng",
+      "por",
+      "fre"
+    ],
+    "public_scan_b": false,
+    "title": "Skyward"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL24088391M",
+    "cover_i": 14658347,
+    "ebook_access": "borrowable",
+    "edition_count": 17,
+    "first_publish_year": 2009,
+    "has_fulltext": true,
+    "ia": [
+      "rozjemca0000sand",
+      "warbreaker0000sand",
+      "warbreaker00sand"
+    ],
+    "ia_collection": [
+      "americana",
+      "delawarecountydistrictlibrary",
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL5738149W",
+    "language": [
+      "pol",
+      "eng",
+      "spa"
+    ],
+    "lending_edition_s": "OL39217142M",
+    "lending_identifier_s": "rozjemca0000sand",
+    "public_scan_b": false,
+    "title": "Warbreaker"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26421466M",
+    "cover_i": 14658111,
+    "ebook_access": "printdisabled",
+    "edition_count": 16,
+    "first_publish_year": 2017,
+    "has_fulltext": true,
+    "ia": [
+      "oathbringerstorm0000bran",
+      "oathbringerbookt0000bran",
+      "oathbringer0000sand_t8m9",
+      "oathbringer0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17834026W",
+    "language": [
+      "eng",
+      "por",
+      "spa",
+      "pol"
+    ],
+    "public_scan_b": false,
+    "title": "Oathbringer"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL28217699M",
+    "cover_i": 14658361,
+    "ebook_access": "printdisabled",
+    "edition_count": 14,
+    "first_publish_year": 2011,
+    "has_fulltext": true,
+    "ia": [
+      "rhythmofwarbookf0000bran",
+      "rhythmofwar0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL20842226W",
+    "language": [
+      "eng",
+      "por",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Rhythm of War"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26367469M",
+    "cover_i": 14658368,
+    "ebook_access": "borrowable",
+    "edition_count": 13,
+    "first_publish_year": 2016,
+    "has_fulltext": true,
+    "ia": [
+      "bezkresmagii0000sand",
+      "isbn_9781473218048",
+      "arcanumunbounded0000bran",
+      "arcanumunbounded0000sand",
+      "arcanumunbounded0000sand_i7i7",
+      "arcanumunbounded0000sand_d0b7"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17770504W",
+    "language": [
+      "eng",
+      "spa"
+    ],
+    "lending_edition_s": "OL42965283M",
+    "lending_identifier_s": "bezkresmagii0000sand",
+    "public_scan_b": false,
+    "subtitle": "The Cosmere Collection",
+    "title": "Arcanum Unbounded"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27140688M",
+    "cover_i": 14658408,
+    "ebook_access": "borrowable",
+    "edition_count": 11,
+    "first_publish_year": 2012,
+    "has_fulltext": true,
+    "ia": [
+      "emperorssoul0000sand"
+    ],
+    "ia_collection": [
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19960448W",
+    "language": [
+      "eng"
+    ],
+    "lending_edition_s": "OL27140688M",
+    "lending_identifier_s": "emperorssoul0000sand",
+    "public_scan_b": false,
+    "title": "The Emperor's Soul"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 13143232,
+    "ebook_access": "no_ebook",
+    "edition_count": 10,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL28687656W",
+    "language": [
+      "ger",
+      "eng",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Tress of the Emerald Sea"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL36539466M",
+    "cover_i": 14658507,
+    "ebook_access": "printdisabled",
+    "edition_count": 10,
+    "first_publish_year": 2022,
+    "has_fulltext": true,
+    "ia": [
+      "lostmetal0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL26769924W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Lost Metal"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL29600138M",
+    "cover_i": 11329782,
+    "ebook_access": "no_ebook",
+    "edition_count": 10,
+    "first_publish_year": 2001,
+    "has_fulltext": false,
+    "key": "/works/OL16044142W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Mistborn"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27097629M",
+    "cover_i": 14658343,
+    "ebook_access": "printdisabled",
+    "edition_count": 21,
+    "first_publish_year": 2001,
+    "has_fulltext": true,
+    "ia": [
+      "firefight0000bran",
+      "firefight0000sand_r0o1",
+      "firefight0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19091564W",
+    "language": [
+      "eng",
+      "heb",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Firefight"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL43346725M",
+    "cover_i": 14662078,
+    "ebook_access": "printdisabled",
+    "edition_count": 16,
+    "first_publish_year": 2019,
+    "has_fulltext": true,
+    "ia": [
+      "isbn_9780593175545",
+      "starsight0000sand",
+      "starsight0000sand_s4o6"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19075470W",
+    "language": [
+      "fre",
+      "por",
+      "eng",
+      "pol"
+    ],
+    "public_scan_b": false,
+    "title": "Starsight"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27420261M",
+    "cover_i": 14658530,
+    "ebook_access": "printdisabled",
+    "edition_count": 8,
+    "first_publish_year": 2016,
+    "has_fulltext": true,
+    "ia": [
+      "edgedancer0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19631308W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Edgedancer"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL25652687M",
+    "cover_i": 14658106,
+    "ebook_access": "printdisabled",
+    "edition_count": 16,
+    "first_publish_year": 2013,
+    "has_fulltext": true,
+    "ia": [
+      "rithmatist0000sand",
+      "rithmatist0000sand_t2k3"
+    ],
+    "ia_collection": [
+      "barryuniversity-ol",
+      "cnusd-ol",
+      "delawarecountydistrictlibrary-ol",
+      "goffstownlibrary-ol",
+      "gwulibraries-ol",
+      "hamiltonpubliclibrary-ol",
+      "internetarchivebooks",
+      "miltonpubliclibrary-ol",
+      "printdisabled",
+      "uni-ol",
+      "worthingtonlibraries-ol"
+    ],
+    "key": "/works/OL17081561W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Rithmatist"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27096918M",
+    "cover_i": 14658158,
+    "ebook_access": "printdisabled",
+    "edition_count": 19,
+    "first_publish_year": 2016,
+    "has_fulltext": true,
+    "ia": [
+      "calamity0000sand_j5k4",
+      "calamity0000sand",
+      "calamity0000sand_a7k9",
+      "calamity0000sand_e1o0"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17615005W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Calamity"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL32758402M",
+    "cover_i": 11385385,
+    "ebook_access": "printdisabled",
+    "edition_count": 12,
+    "first_publish_year": 2020,
+    "has_fulltext": true,
+    "ia": [
+      "dawnshard0000bran"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL24139894W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Dawnshard"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL32527527M",
+    "cover_i": 14658369,
+    "ebook_access": "printdisabled",
+    "edition_count": 12,
+    "first_publish_year": 2021,
+    "has_fulltext": true,
+    "ia": [
+      "cytonic0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL24539367W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Cytonic"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL57521682M",
+    "cover_i": 14838986,
+    "ebook_access": "no_ebook",
+    "edition_count": 6,
+    "first_publish_year": 2024,
+    "has_fulltext": false,
+    "key": "/works/OL37577930W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Wind and Truth"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 13989845,
+    "ebook_access": "no_ebook",
+    "edition_count": 8,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL31146657W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Yumi and the Nightmare Painter"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL37750054M",
+    "cover_i": 12663707,
+    "ebook_access": "printdisabled",
+    "edition_count": 11,
+    "first_publish_year": 2012,
+    "has_fulltext": true,
+    "ia": [
+      "legion0000sand",
+      "legion0000sand_i0n9"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17929839W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Legion"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL23216386M",
+    "cover_i": 14658067,
+    "ebook_access": "borrowable",
+    "edition_count": 13,
+    "first_publish_year": 2008,
+    "has_fulltext": true,
+    "ia": [
+      "loshuesosdelescr0000sand",
+      "alcatrazversussc00bran",
+      "alcatrazversussc00sand",
+      "scrivenersbones0000sand"
+    ],
+    "ia_collection": [
+      "cnusd-ol",
+      "delawarecountydistrictlibrary-ol",
+      "denverpubliclibrary-ol",
+      "hamiltonpubliclibrary-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "openlibrary-d-ol",
+      "printdisabled",
+      "spokanepubliclibrary-ol",
+      "uni-ol"
+    ],
+    "key": "/works/OL5738146W",
+    "language": [
+      "eng",
+      "pol",
+      "spa"
+    ],
+    "lending_edition_s": "OL26381936M",
+    "lending_identifier_s": "loshuesosdelescr0000sand",
+    "public_scan_b": false,
+    "title": "Alcatraz versus the Scrivener's Bones"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL23929184M",
+    "cover_i": 14658318,
+    "ebook_access": "borrowable",
+    "edition_count": 11,
+    "first_publish_year": 2010,
+    "has_fulltext": true,
+    "ia": [
+      "alcatrazversussh0000sand",
+      "alcatrazversussh0000sand_s6u8",
+      "alcatrazversussh0000unse"
+    ],
+    "ia_collection": [
+      "cnusd-ol",
+      "framingham-ol",
+      "hamiltonpubliclibrary-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled",
+      "salisburyfreelibrary-ol",
+      "uni-ol",
+      "universityofoklahoma-ol"
+    ],
+    "key": "/works/OL14909011W",
+    "language": [
+      "eng",
+      "pol"
+    ],
+    "lending_edition_s": "OL23929184M",
+    "lending_identifier_s": "alcatrazversussh0000sand",
+    "public_scan_b": false,
+    "title": "Alcatraz versus the Shattered Lens"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 8737489,
+    "ebook_access": "printdisabled",
+    "edition_count": 6,
+    "first_publish_year": 2013,
+    "has_fulltext": true,
+    "ia": [
+      "mitosis0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19913036W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Mitosis"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL49671929M",
+    "cover_i": 14861627,
+    "ebook_access": "no_ebook",
+    "edition_count": 8,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL29190967W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Frugal Wizard\u2019s Handbook for Surviving Medieval England"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27098446M",
+    "cover_i": 8737946,
+    "ebook_access": "no_ebook",
+    "edition_count": 5,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL19913857W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Secret History"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26852752M",
+    "cover_i": 8540621,
+    "ebook_access": "printdisabled",
+    "edition_count": 5,
+    "first_publish_year": 2017,
+    "has_fulltext": true,
+    "ia": [
+      "snapshot0000bran"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19631813W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Snapshot"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 13989844,
+    "ebook_access": "no_ebook",
+    "edition_count": 9,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL31181973W",
+    "language": [
+      "eng",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "The Sunlit Man"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26224469M",
+    "cover_i": 7898972,
+    "ebook_access": "printdisabled",
+    "edition_count": 7,
+    "first_publish_year": 2016,
+    "has_fulltext": true,
+    "ia": [
+      "darktalent0000sand"
+    ],
+    "ia_collection": [
+      "hamiltonpubliclibrary-ol",
+      "internetarchivebooks",
+      "printdisabled",
+      "salisburyfreelibrary-ol"
+    ],
+    "key": "/works/OL17619904W",
+    "language": [
+      "pol",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Dark Talent"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL35679265M",
+    "cover_i": 12384447,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2020,
+    "has_fulltext": false,
+    "key": "/works/OL26421189W",
+    "public_scan_b": false,
+    "title": "The Stormlight Archive Series 6 Books Collection Set by Brandon Sanderson"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL22695812M",
+    "cover_i": 14658079,
+    "ebook_access": "borrowable",
+    "edition_count": 9,
+    "first_publish_year": 2009,
+    "has_fulltext": true,
+    "ia": [
+      "alcatrazversuskn00sand_0",
+      "knightsofcrystal0000sand"
+    ],
+    "ia_collection": [
+      "cnusd-ol",
+      "delawarecountydistrictlibrary-ol",
+      "denverpubliclibrary-ol",
+      "framingham-ol",
+      "inlibrary",
+      "internetarchivebooks",
+      "printdisabled",
+      "spokanepubliclibrary-ol",
+      "universityofoklahoma-ol"
+    ],
+    "key": "/works/OL5738145W",
+    "language": [
+      "eng",
+      "pol"
+    ],
+    "lending_edition_s": "OL22695812M",
+    "lending_identifier_s": "alcatrazversuskn00sand_0",
+    "public_scan_b": false,
+    "title": "Alcatraz versus the Knights of Crystallia"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27098440M",
+    "cover_i": 14658376,
+    "ebook_access": "printdisabled",
+    "edition_count": 3,
+    "first_publish_year": 2015,
+    "has_fulltext": true,
+    "ia": [
+      "wordsofradiancep0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19913851W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Words of Radiance, Part Two"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL47316862M",
+    "cover_i": 13815273,
+    "ebook_access": "no_ebook",
+    "edition_count": 7,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL34341592W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Defiant"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26501922M",
+    "cover_i": 14658320,
+    "ebook_access": "printdisabled",
+    "edition_count": 11,
+    "first_publish_year": 2018,
+    "has_fulltext": true,
+    "ia": [
+      "legionmanyliveso0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL18190193W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Legion--The Many Lives of Stephen Leeds"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26825072M",
+    "cover_i": 8494963,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL19369957W",
+    "public_scan_b": false,
+    "title": "The Stormlight Archive"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL30879707M",
+    "cover_i": 10504789,
+    "ebook_access": "no_ebook",
+    "edition_count": 3,
+    "first_publish_year": 2011,
+    "has_fulltext": false,
+    "key": "/works/OL22983697W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Way of Kings, Part One"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26824890M",
+    "cover_i": 8494769,
+    "ebook_access": "no_ebook",
+    "edition_count": 4,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL19369769W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Legion--Lies of the Beholder"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27273621M",
+    "cover_i": 8758320,
+    "ebook_access": "printdisabled",
+    "edition_count": 5,
+    "first_publish_year": 2017,
+    "has_fulltext": true,
+    "ia": [
+      "oathbringerparto0000sand"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL17870143W",
+    "language": [
+      "eng",
+      "pol"
+    ],
+    "public_scan_b": false,
+    "title": "Oathbringer part 1"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2017,
+    "has_fulltext": false,
+    "key": "/works/OL27708572W",
+    "public_scan_b": false,
+    "title": "Stormlight Archive Series Brandon Sanderson Collection 4 Books Bundles Set"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27098439M",
+    "cover_i": 8737940,
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2015,
+    "has_fulltext": false,
+    "key": "/works/OL19913850W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "subtitle": "The Stormlight Archive Book Two",
+    "title": "Words of Radiance Part One"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL47107155M",
+    "cover_i": 13484431,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2021,
+    "has_fulltext": false,
+    "key": "/works/OL34757436W",
+    "public_scan_b": false,
+    "title": "Trilog\u00eda Nacidos de la bruma [Mistborn]  (Nacidos de la bruma ... de fantas\u00eda \u00e9pica que ha conquistado el mundo"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL28265113M",
+    "cover_i": 14658421,
+    "ebook_access": "printdisabled",
+    "edition_count": 10,
+    "first_publish_year": 2014,
+    "has_fulltext": true,
+    "ia": [
+      "legionskindeep0000sand",
+      "legionskindeep0000sand_j7t2"
+    ],
+    "ia_collection": [
+      "internetarchivebooks",
+      "printdisabled"
+    ],
+    "key": "/works/OL19913853W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "subtitle": "Skin Deep",
+    "title": "Legion"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26773603M",
+    "cover_i": 8424720,
+    "ebook_access": "no_ebook",
+    "edition_count": 5,
+    "first_publish_year": 2013,
+    "has_fulltext": false,
+    "key": "/works/OL19159808W",
+    "language": [
+      "spa",
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Legion & The Emperor's Soul"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_i": 8741757,
+    "ebook_access": "no_ebook",
+    "edition_count": 4,
+    "first_publish_year": 2015,
+    "has_fulltext": false,
+    "key": "/works/OL19920327W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Perfect State"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL31877602M",
+    "cover_i": 10553717,
+    "ebook_access": "no_ebook",
+    "edition_count": 5,
+    "first_publish_year": 2021,
+    "has_fulltext": false,
+    "key": "/works/OL24154052W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Rythm of War part 1"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL20864101W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Stormlight Archive MM Boxed Set I, Books 1-3"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL35308276M",
+    "cover_i": 12119195,
+    "ebook_access": "no_ebook",
+    "edition_count": 3,
+    "first_publish_year": 2020,
+    "has_fulltext": false,
+    "key": "/works/OL25809520W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Way of Kings Part Two"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL28688178M",
+    "cover_i": 14685529,
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL21183644W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Oathbringer Part Two"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL35831504W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Stormlight Archive, Books 1-4"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL26967337M",
+    "cover_i": 13262227,
+    "ebook_access": "no_ebook",
+    "edition_count": 4,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL19754299W",
+    "language": [
+      "eng",
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Infinity Blade--Awakening"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL61305607M",
+    "cover_i": 15169904,
+    "ebook_access": "no_ebook",
+    "edition_count": 4,
+    "first_publish_year": 2025,
+    "has_fulltext": false,
+    "key": "/works/OL43650021W",
+    "language": [
+      "eng",
+      "cat"
+    ],
+    "public_scan_b": false,
+    "title": "Isles of the Emberdark"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL38211644M",
+    "cover_i": 13517259,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2022,
+    "has_fulltext": false,
+    "key": "/works/OL27957938W",
+    "public_scan_b": false,
+    "title": "Stormlight Archives HC Boxed Set 1-4"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL27289888M",
+    "cover_i": 8769770,
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2013,
+    "has_fulltext": false,
+    "key": "/works/OL20109892W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "FirstBorn & Defending Elysium (Double Novella) **SIGNED**"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL38627780M",
+    "cover_i": 12819371,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2022,
+    "has_fulltext": false,
+    "key": "/works/OL28215144W",
+    "public_scan_b": false,
+    "title": "Arena Blanca"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2017,
+    "has_fulltext": false,
+    "key": "/works/OL25870671W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Brandon Sanderson's Fantasy Firsts : (the Way of Kings, Mistborn: the Final Empire, Rithmatist, Alcatraz vs. the Evil Librarians)"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2014,
+    "has_fulltext": false,
+    "key": "/works/OL36466672W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Brandon Sanderson Sampler"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL58134946M",
+    "cover_i": 15148482,
+    "ebook_access": "no_ebook",
+    "edition_count": 4,
+    "first_publish_year": 2025,
+    "has_fulltext": false,
+    "key": "/works/OL42413123W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Tailored Realities"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL48947700M",
+    "cover_i": 14611343,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL36221541W",
+    "language": [
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Yumi and the Nightmare Painter"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL51674302M",
+    "cover_i": 14619840,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2022,
+    "has_fulltext": false,
+    "key": "/works/OL38056408W",
+    "language": [
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Palabras Radiantes"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL47142111M",
+    "cover_i": 13540548,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2021,
+    "has_fulltext": false,
+    "key": "/works/OL34790185W",
+    "public_scan_b": false,
+    "title": "El Pozo de la Ascensi\u00f3n"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL26569185W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "The Wax and Wayne Series"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL51154903M",
+    "cover_i": 14587753,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL37894320W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "subtitle": "The Way of Kings (1 of 5)",
+    "title": "The Stormlight Archive 1"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2022,
+    "has_fulltext": false,
+    "key": "/works/OL25342516W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Rhythm of War Part Two"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL51674303M",
+    "cover_i": 14619841,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL38056409W",
+    "language": [
+      "spa"
+    ],
+    "public_scan_b": false,
+    "title": "Juramentada"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2023,
+    "has_fulltext": false,
+    "key": "/works/OL36855325W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Mistborn 7 Books Collection Set by Brandon Sanderson (Final Empire, Well of Ascension, Hero of Ages, Band of Mourning, Alloy of Law, Shadows of Self & the Lost Metal)"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL35700882W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Untitled Sanderson 3 Of 3"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL47137791M",
+    "cover_i": 13534599,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL34786153W",
+    "public_scan_b": false,
+    "title": "El aliento de los Dioses"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL35308274M",
+    "cover_i": 12119193,
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2018,
+    "has_fulltext": false,
+    "key": "/works/OL26160410W",
+    "public_scan_b": false,
+    "title": "Children of the Nameless"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL55074013M",
+    "cover_i": 14820006,
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "first_publish_year": 2016,
+    "has_fulltext": false,
+    "key": "/works/OL40501471W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "subtitle": "The Way of Kings (3 of 5)",
+    "title": "The Stormlight Archive 1"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "cover_edition_key": "OL60744340M",
+    "cover_i": 15148741,
+    "ebook_access": "no_ebook",
+    "edition_count": 2,
+    "first_publish_year": 2008,
+    "has_fulltext": false,
+    "key": "/works/OL26779512W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Firstborn"
+  },
+  {
+    "author_key": [
+      "OL1394865A"
+    ],
+    "author_name": [
+      "Brandon Sanderson"
+    ],
+    "ebook_access": "no_ebook",
+    "edition_count": 1,
+    "has_fulltext": false,
+    "key": "/works/OL25174589W",
+    "language": [
+      "eng"
+    ],
+    "public_scan_b": false,
+    "title": "Untitled Brandon Sanderson 3 of 3"
+  }
+]
